@@ -15,7 +15,7 @@ const images = [
   "/game-photos/7.jpg",
   "/game-photos/8.jpg",
   "/game-photos/9.jpg",
-  "/game-photos/10.jpg",
+  "/game-photos/10.JPG",
   "/game-photos/11.jpg",
   "/game-photos/12.jpg",
   "/game-photos/13.jpg",
